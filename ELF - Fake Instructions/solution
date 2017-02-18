@@ -1,0 +1,1 @@
+Grace a gdb et le plugin pwnbd, jai changer la valeur de eax apres un strcmp qui compare l'argument recu en parametre et une autre chaine de charactere. Avec eax = 0, le programme continue son execution comme si les 2 chaines matcher.
