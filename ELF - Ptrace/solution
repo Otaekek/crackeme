@@ -1,0 +1,2 @@
+Grace a gdb et le plugin PWNGDB, j'ai modifier a plusieurs reprise les flags zero et equal, de maniere a bypasser le test apres l'appel a ptrace.
+Le mot de  passe se presenter sous forme dùune suite de comparaison, charactere par charactere. Jai print la valeur des registre comparer a chaque "cmp", puis modifier les flags de maniere a pouvoir step normalement.
