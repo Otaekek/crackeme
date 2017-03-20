@@ -1,0 +1,1 @@
+J'ai utiliser un decompileur de python bytecpde (https://github.com/zrax/pycdc) pour traduire le bytecode en readable-python. J'ai ensuite ecris un algo de bruteforce en C qui decrypter chaque charactere 1 par 1
