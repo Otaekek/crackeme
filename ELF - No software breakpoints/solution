@@ -1,0 +1,2 @@
+Pour resoudre ce challenge, j'ai recopier une partie du code dans un autre code asm de maniere a calculer la checksum.
+Une fois celle ci obtenue, j'ai ecrit un code C  qui fait les operations inverser sur la clef, afin de déduire le code
